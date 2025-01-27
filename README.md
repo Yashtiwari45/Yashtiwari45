@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Yashtiwari45/Yashtiwari45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Konichiwa 👋
 
 <div align="center">
