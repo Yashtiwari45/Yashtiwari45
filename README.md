@@ -1,7 +1,8 @@
 # 👋 Hello there,
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif](https://github.com/user-attachments/assets/8be17bb3-04c7-4782-9377-133fb12e402c)">
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/edb0b16c-dbb5-43ae-bdf4-cd0a36f7b94a)
+
 </div>
 
 </br>
