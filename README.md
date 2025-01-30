@@ -4,7 +4,6 @@
 <div align="center">
 
 <img hight="200" width="800" alt="GIF" align="center" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="240" height="150">
 
 #  Skills 
   
@@ -30,4 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 <br><br>
+</div>
+<div align = center>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="240" height="150">
 </div>
