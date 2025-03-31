@@ -24,14 +24,14 @@
 <br><br>    
 
 # About ME 💬 :
-
-<div align="right">
- 
-<div align="left">
-Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-<br><br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; text-align: left;">
+    <h1>About ME 💬 :</h1>
+    <p>Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  </div>
 </div>
 <div align = center>
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="240" height="150">
