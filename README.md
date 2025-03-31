@@ -22,8 +22,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br>    
-
-# About ME 💬 :
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
     <h1>About ME 💬 :</h1>
@@ -33,8 +31,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
   </div>
 </div>
-<div align = center>
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="240" height="150">
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="240" height="150">
 </div>
+
 
 ....
