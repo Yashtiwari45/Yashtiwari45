@@ -24,10 +24,12 @@
 <br><br>    
 
 # About ME 💬 :
-Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.
+
 <div align="right">
  
-
+<div align="left">
+Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 <br><br>
 </div>
