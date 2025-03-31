@@ -24,6 +24,7 @@
 <br><br>    
 
 # About ME 💬 :
+Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.
 <div align="right">
  
 
