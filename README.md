@@ -25,8 +25,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
     <h1>About ME 💬 :</h1>
-    <p>Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.</p>
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+    <p>Passionate about web development and machine learning, actively exploring AI-driven solutions with a focus on creating impactful and innovative applications.
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"> </p>
   </div>
   <div style="flex: 1; text-align: right;">
     
